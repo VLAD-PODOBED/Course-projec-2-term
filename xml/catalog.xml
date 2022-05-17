@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+<catalog>
+<name>Электроплитка настольная БРТЗ ЭПЧ</name>
+<price>Цена 69 $</price>
+</catalog>
+<catalog>
+<name>Кухонная плита Horizont GS-13 Gas Stove</name>
+<price>Цена 530 $</price>
+</catalog>
+<catalog>
+<name>Микроволновая печь Candy CMS20W</name>
+<price>Цена 194 $</price>
+</catalog>
+<catalog>
+<name>Жарочный шкаф Centek CT-1530 GRILL</name>
+<price>Цена 329 $</price>
+</catalog>
+</shop>
